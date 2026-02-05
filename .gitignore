@@ -42,9 +42,13 @@ wheels/
 
 # Word documents (temporary)
 ~$*.docx
-# Duplicate Chinese filename files
-miniF2F_比较报告.docx
-项目说明.txt
+*.docx
+
+# Upload-related files (Chinese filenames)
+*上传*
+*项目*
+*快速*
+README_上传*
 
 # Statistics and reports (can be regenerated)
 statistics.json
