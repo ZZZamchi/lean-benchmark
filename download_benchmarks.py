@@ -26,12 +26,10 @@ def download_putnambench():
     print("Downloading PutnamBench...")
     putnambench_dir = "benchmarks/putnambench"
     
-    # 克隆仓库
     if not os.path.exists(putnambench_dir):
         success, _, _ = run_command(f"git clone --depth 1 https://github.com/trishullab/PutnamBench.git {putnambench_dir}")
         if success:
             print("[OK] PutnamBench downloaded")
-            # 删除 .git 目录以节省空间
             git_dir = os.path.join(putnambench_dir, ".git")
             if os.path.exists(git_dir):
                 shutil.rmtree(git_dir)
@@ -39,6 +37,27 @@ def download_putnambench():
             print("[FAIL] PutnamBench download failed")
     else:
         print("[OK] PutnamBench already exists")
+
+def download_leancat():
+    """下载 LeanCat 数据"""
+    print("Downloading LeanCat...")
+    leancat_dir = "benchmarks/leancat"
+    
+    if not os.path.exists(leancat_dir):
+        success, _, _ = run_command(f"git clone --depth 1 https://github.com/sciencraft/LeanCat.git {leancat_dir}")
+        if success:
+            print("[OK] LeanCat downloaded")
+            # 尝试删除 .git 目录（可能失败，但不影响使用）
+            try:
+                git_dir = os.path.join(leancat_dir, ".git")
+                if os.path.exists(git_dir):
+                    shutil.rmtree(git_dir)
+            except:
+                pass
+        else:
+            print("[FAIL] LeanCat download failed")
+    else:
+        print("[OK] LeanCat already exists")
 
 def download_proofnet():
     """下载 ProofNet 数据"""
@@ -63,4 +82,5 @@ if __name__ == "__main__":
     os.makedirs("benchmarks", exist_ok=True)
     download_putnambench()
     download_proofnet()
+    download_leancat()
     print("\nAll benchmarks downloaded!")

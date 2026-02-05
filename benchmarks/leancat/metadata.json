@@ -1,0 +1,1102 @@
+{
+    "0001": {
+        "domain": [
+            "Category"
+        ],
+        "level": "Easy",
+        "tag": [
+            "Basic"
+        ],
+        "reference": "",
+        "declaration": []
+    },
+    "0002": {
+        "domain": [
+            "Category"
+        ],
+        "level": "Easy",
+        "tag": [
+            "Basic"
+        ],
+        "reference": "",
+        "declaration": []
+    },
+    "0003": {
+        "domain": [
+            "Category"
+        ],
+        "level": "Medium",
+        "tag": [
+            "Basic"
+        ],
+        "reference": "",
+        "declaration": []
+    },
+    "0004": {
+        "domain": [
+            "Category"
+        ],
+        "level": "Medium",
+        "tag": [
+            "Basic"
+        ],
+        "reference": "",
+        "declaration": []
+    },
+    "0005": {
+        "domain": [
+            "Category"
+        ],
+        "level": "Easy",
+        "tag": [
+            "Basic"
+        ],
+        "reference": "",
+        "declaration": []
+    },
+    "0006": {
+        "domain": [
+            "Category"
+        ],
+        "level": "Medium",
+        "tag": [
+            "Basic"
+        ],
+        "reference": "",
+        "declaration": []
+    },
+    "0007": {
+        "domain": [
+            "Category"
+        ],
+        "level": "Medium",
+        "tag": [
+            "Basic"
+        ],
+        "reference": "",
+        "declaration": []
+    },
+    "0008": {
+        "domain": [
+            "Category"
+        ],
+        "level": "Medium",
+        "tag": [
+            "Basic"
+        ],
+        "reference": "",
+        "declaration": []
+    },
+    "0009": {
+        "domain": [
+            "Category"
+        ],
+        "level": "Medium",
+        "tag": [
+            "Basic"
+        ],
+        "reference": "",
+        "declaration": []
+    },
+    "0010": {
+        "domain": [
+            "Category"
+        ],
+        "level": "Medium",
+        "tag": [
+            "Basic"
+        ],
+        "reference": "",
+        "declaration": []
+    },
+    "0011": {
+        "domain": [
+            "Category"
+        ],
+        "level": "High",
+        "tag": [
+            "Basic"
+        ],
+        "reference": "Exercise 9D, Ad\u8c29mek, J., Herrlich, H. and Strecker, G., 1990. Abstract and concrete categories. Wiley-Interscience.",
+        "declaration": []
+    },
+    "0012": {
+        "domain": [
+            "Category"
+        ],
+        "level": "High",
+        "tag": [
+            "Basic"
+        ],
+        "reference": "Exercise 7P, Ad\u8c29mek, J., Herrlich, H. and Strecker, G., 1990. Abstract and concrete categories. Wiley-Interscience.",
+        "declaration": []
+    },
+    "0013": {
+        "domain": [
+            "Category"
+        ],
+        "level": "High",
+        "tag": [
+            "Basic"
+        ],
+        "reference": "3.39 EXAMPLES (6), Ad\u8c29mek, J., Herrlich, H. and Strecker, G., 1990. Abstract and concrete categories. Wiley-Interscience.",
+        "declaration": []
+    },
+    "0014": {
+        "domain": [
+            "Category"
+        ],
+        "level": "High",
+        "tag": [
+            "Basic"
+        ],
+        "reference": "9.3 EXAMPLES (2), Ad\u8c29mek, J., Herrlich, H. and Strecker, G., 1990. Abstract and concrete categories. Wiley-Interscience.",
+        "declaration": []
+    },
+    "0015": {
+        "domain": [
+            "Category"
+        ],
+        "level": "High",
+        "tag": [
+            "Basic"
+        ],
+        "reference": "9.3 EXAMPLES (2)(b), Ad\u8c29mek, J., Herrlich, H. and Strecker, G., 1990. Abstract and concrete categories. Wiley-Interscience.",
+        "declaration": []
+    },
+    "0016": {
+        "domain": [
+            "Category"
+        ],
+        "level": "High",
+        "tag": [
+            "Basic"
+        ],
+        "reference": "9.3 EXAMPLES (3)(b), Ad\u8c29mek, J., Herrlich, H. and Strecker, G., 1990. Abstract and concrete categories. Wiley-Interscience.",
+        "declaration": []
+    },
+    "0017": {
+        "domain": [
+            "Category"
+        ],
+        "level": "High",
+        "tag": [
+            "Basic"
+        ],
+        "reference": "9.3 EXAMPLES (4)(d), Ad\u8c29mek, J., Herrlich, H. and Strecker, G., 1990. Abstract and concrete categories. Wiley-Interscience.",
+        "declaration": []
+    },
+    "0018": {
+        "domain": [
+            "Category"
+        ],
+        "level": "High",
+        "tag": [
+            "Basic"
+        ],
+        "reference": "9.3 EXAMPLES (4)(a), Ad\u8c29mek, J., Herrlich, H. and Strecker, G., 1990. Abstract and concrete categories. Wiley-Interscience.",
+        "declaration": []
+    },
+    "0019": {
+        "domain": [
+            "Category"
+        ],
+        "level": "Easy",
+        "tag": [
+            "Adjunction"
+        ],
+        "reference": "",
+        "declaration": []
+    },
+    "0020": {
+        "domain": [
+            "Category"
+        ],
+        "level": "Easy",
+        "tag": [
+            "Adjunction"
+        ],
+        "reference": "",
+        "declaration": []
+    },
+    "0021": {
+        "domain": [
+            "Category"
+        ],
+        "level": "Medium",
+        "tag": [
+            "Adjunction"
+        ],
+        "reference": "",
+        "declaration": []
+    },
+    "0022": {
+        "domain": [
+            "Category"
+        ],
+        "level": "Medium",
+        "tag": [
+            "Adjunction"
+        ],
+        "reference": "",
+        "declaration": []
+    },
+    "0023": {
+        "domain": [
+            "Category"
+        ],
+        "level": "Medium",
+        "tag": [
+            "Adjunction"
+        ],
+        "reference": "",
+        "declaration": []
+    },
+    "0024": {
+        "domain": [
+            "Category"
+        ],
+        "level": "Easy",
+        "tag": [
+            "Adjunction"
+        ],
+        "reference": "",
+        "declaration": []
+    },
+    "0025": {
+        "domain": [
+            "Category"
+        ],
+        "level": "Medium",
+        "tag": [
+            "Monad"
+        ],
+        "reference": "",
+        "declaration": []
+    },
+    "0026": {
+        "domain": [
+            "Category"
+        ],
+        "level": "Medium",
+        "tag": [
+            "Adjunction"
+        ],
+        "reference": "Exercise 19I, Ad\u8c29mek, J., Herrlich, H. and Strecker, G., 1990. Abstract and concrete categories. Wiley-Interscience.",
+        "declaration": []
+    },
+    "0027": {
+        "domain": [
+            "Category"
+        ],
+        "level": "Medium",
+        "tag": [
+            "Adjunction"
+        ],
+        "reference": "Exercise 18H, Ad\u8c29mek, J., Herrlich, H. and Strecker, G., 1990. Abstract and concrete categories. Wiley-Interscience.",
+        "declaration": []
+    },
+    "0028": {
+        "domain": [
+            "Category"
+        ],
+        "level": "Medium",
+        "tag": [
+            "Adjunction"
+        ],
+        "reference": "Exercise 19F (a), Ad\u8c29mek, J., Herrlich, H. and Strecker, G., 1990. Abstract and concrete categories. Wiley-Interscience.",
+        "declaration": []
+    },
+    "0029": {
+        "domain": [
+            "Category"
+        ],
+        "level": "Medium",
+        "tag": [
+            "Adjunction"
+        ],
+        "reference": "",
+        "declaration": []
+    },
+    "0030": {
+        "domain": [
+            "Category"
+        ],
+        "level": "High",
+        "tag": [
+            "Reflective"
+        ],
+        "reference": "Exercise 4G(d), Ad\u8c29mek, J., Herrlich, H. and Strecker, G., 1990. Abstract and concrete categories. Wiley-Interscience.",
+        "declaration": []
+    },
+    "0031": {
+        "domain": [
+            "Category"
+        ],
+        "level": "High",
+        "tag": [
+            "Reflective"
+        ],
+        "reference": "Exercise 4E(d), Ad\u8c29mek, J., Herrlich, H. and Strecker, G., 1990. Abstract and concrete categories. Wiley-Interscience.",
+        "declaration": []
+    },
+    "0032": {
+        "domain": [
+            "Category"
+        ],
+        "level": "High",
+        "tag": [
+            "Reflective"
+        ],
+        "reference": "Exercise 4D(a), Ad\u8c29mek, J., Herrlich, H. and Strecker, G., 1990. Abstract and concrete categories. Wiley-Interscience.",
+        "declaration": []
+    },
+    "0033": {
+        "domain": [
+            "Category"
+        ],
+        "level": "High",
+        "tag": [
+            "Reflective"
+        ],
+        "reference": "Exercise 4D(b), Ad\u8c29mek, J., Herrlich, H. and Strecker, G., 1990. Abstract and concrete categories. Wiley-Interscience.",
+        "declaration": []
+    },
+    "0034": {
+        "domain": [
+            "Category"
+        ],
+        "level": "Medium",
+        "tag": [
+            "Concrete"
+        ],
+        "reference": "Exercise 10R, Ad\u8c29mek, J., Herrlich, H. and Strecker, G., 1990. Abstract and concrete categories. Wiley-Interscience.",
+        "declaration": []
+    },
+    "0035": {
+        "domain": [
+            "Category"
+        ],
+        "level": "High",
+        "tag": [
+            "Concrete"
+        ],
+        "reference": "Exercise 5O(k), Ad\u8c29mek, J., Herrlich, H. and Strecker, G., 1990. Abstract and concrete categories. Wiley-Interscience.",
+        "declaration": []
+    },
+    "0036": {
+        "domain": [
+            "Category"
+        ],
+        "level": "High",
+        "tag": [
+            "Concrete"
+        ],
+        "reference": "Exercise 5J(d), Ad\u8c29mek, J., Herrlich, H. and Strecker, G., 1990. Abstract and concrete categories. Wiley-Interscience.",
+        "declaration": []
+    },
+    "0037": {
+        "domain": [
+            "Category"
+        ],
+        "level": "High",
+        "tag": [
+            "Concrete"
+        ],
+        "reference": "Exercise 5D(d), Ad\u8c29mek, J., Herrlich, H. and Strecker, G., 1990. Abstract and concrete categories. Wiley-Interscience.",
+        "declaration": []
+    },
+    "0038": {
+        "domain": [
+            "Category"
+        ],
+        "level": "High",
+        "tag": [
+            "Concrete"
+        ],
+        "reference": "Exercise 10L, Ad\u8c29mek, J., Herrlich, H. and Strecker, G., 1990. Abstract and concrete categories. Wiley-Interscience.",
+        "declaration": []
+    },
+    "0039": {
+        "domain": [
+            "Category"
+        ],
+        "level": "High",
+        "tag": [
+            "Concrete"
+        ],
+        "reference": "Exercise 5L, Ad\u8c29mek, J., Herrlich, H. and Strecker, G., 1990. Abstract and concrete categories. Wiley-Interscience.",
+        "declaration": []
+    },
+    "0040": {
+        "domain": [
+            "Category"
+        ],
+        "level": "High",
+        "tag": [
+            "Concrete"
+        ],
+        "reference": "Exercise 8G(a), Ad\u8c29mek, J., Herrlich, H. and Strecker, G., 1990. Abstract and concrete categories. Wiley-Interscience.",
+        "declaration": []
+    },
+    "0041": {
+        "domain": [
+            "Category"
+        ],
+        "level": "High",
+        "tag": [
+            "Concrete"
+        ],
+        "reference": "Exercise 8G(b), Ad\u8c29mek, J., Herrlich, H. and Strecker, G., 1990. Abstract and concrete categories. Wiley-Interscience.",
+        "declaration": []
+    },
+    "0042": {
+        "domain": [
+            "Category"
+        ],
+        "level": "Easy",
+        "tag": [
+            "Limit"
+        ],
+        "reference": "",
+        "declaration": []
+    },
+    "0043": {
+        "domain": [
+            "Category"
+        ],
+        "level": "Easy",
+        "tag": [
+            "Limit"
+        ],
+        "reference": "",
+        "declaration": []
+    },
+    "0044": {
+        "domain": [
+            "Category"
+        ],
+        "level": "Easy",
+        "tag": [
+            "Limit"
+        ],
+        "reference": "",
+        "declaration": []
+    },
+    "0045": {
+        "domain": [
+            "Category"
+        ],
+        "level": "Easy",
+        "tag": [
+            "Limit"
+        ],
+        "reference": "",
+        "declaration": []
+    },
+    "0046": {
+        "domain": [
+            "Category"
+        ],
+        "level": "Easy",
+        "tag": [
+            "Limit"
+        ],
+        "reference": "",
+        "declaration": []
+    },
+    "0047": {
+        "domain": [
+            "Category"
+        ],
+        "level": "Easy",
+        "tag": [
+            "Limit"
+        ],
+        "reference": "",
+        "declaration": []
+    },
+    "0048": {
+        "domain": [
+            "Category"
+        ],
+        "level": "Easy",
+        "tag": [
+            "Limit"
+        ],
+        "reference": "",
+        "declaration": []
+    },
+    "0049": {
+        "domain": [
+            "Category"
+        ],
+        "level": "Easy",
+        "tag": [
+            "Limit"
+        ],
+        "reference": "",
+        "declaration": []
+    },
+    "0050": {
+        "domain": [
+            "Category"
+        ],
+        "level": "Medium",
+        "tag": [
+            "Limit"
+        ],
+        "reference": "",
+        "declaration": []
+    },
+    "0051": {
+        "domain": [
+            "Category"
+        ],
+        "level": "Medium",
+        "tag": [
+            "Limit"
+        ],
+        "reference": "",
+        "declaration": []
+    },
+    "0052": {
+        "domain": [
+            "Category"
+        ],
+        "level": "Medium",
+        "tag": [
+            "Limit"
+        ],
+        "reference": "",
+        "declaration": []
+    },
+    "0053": {
+        "domain": [
+            "Category"
+        ],
+        "level": "Medium",
+        "tag": [
+            "Limit"
+        ],
+        "reference": "",
+        "declaration": []
+    },
+    "0054": {
+        "domain": [
+            "Category"
+        ],
+        "level": "Medium",
+        "tag": [
+            "Limit"
+        ],
+        "reference": "",
+        "declaration": []
+    },
+    "0055": {
+        "domain": [
+            "Category"
+        ],
+        "level": "Medium",
+        "tag": [
+            "Limit"
+        ],
+        "reference": "",
+        "declaration": []
+    },
+    "0056": {
+        "domain": [
+            "Category"
+        ],
+        "level": "High",
+        "tag": [
+            "Limit"
+        ],
+        "reference": "",
+        "declaration": []
+    },
+    "0057": {
+        "domain": [
+            "Category"
+        ],
+        "level": "Medium",
+        "tag": [
+            "Limit"
+        ],
+        "reference": "Exercise 13F, Ad\u8c29mek, J., Herrlich, H. and Strecker, G., 1990. Abstract and concrete categories. Wiley-Interscience.",
+        "declaration": []
+    },
+    "0058": {
+        "domain": [
+            "Category"
+        ],
+        "level": "High",
+        "tag": [
+            "Limit"
+        ],
+        "reference": "",
+        "declaration": []
+    },
+    "0059": {
+        "domain": [
+            "Category"
+        ],
+        "level": "High",
+        "tag": [
+            "Limit"
+        ],
+        "reference": "Exercise 13D(b), Ad\u8c29mek, J., Herrlich, H. and Strecker, G., 1990. Abstract and concrete categories. Wiley-Interscience.",
+        "declaration": []
+    },
+    "0060": {
+        "domain": [
+            "Category"
+        ],
+        "level": "High",
+        "tag": [
+            "Limit"
+        ],
+        "reference": "",
+        "declaration": []
+    },
+    "0061": {
+        "domain": [
+            "Category"
+        ],
+        "level": "High",
+        "tag": [
+            "Limit"
+        ],
+        "reference": "",
+        "declaration": []
+    },
+    "0062": {
+        "domain": [
+            "Category"
+        ],
+        "level": "High",
+        "tag": [
+            "Limit"
+        ],
+        "reference": "Exercise 12N(b), Ad\u8c29mek, J., Herrlich, H. and Strecker, G., 1990. Abstract and concrete categories. Wiley-Interscience.",
+        "declaration": []
+    },
+    "0063": {
+        "domain": [
+            "Category"
+        ],
+        "level": "High",
+        "tag": [
+            "Limit"
+        ],
+        "reference": "",
+        "declaration": []
+    },
+    "0064": {
+        "domain": [
+            "Category"
+        ],
+        "level": "High",
+        "tag": [
+            "Limit"
+        ],
+        "reference": "",
+        "declaration": []
+    },
+    "0065": {
+        "domain": [
+            "Category"
+        ],
+        "level": "High",
+        "tag": [
+            "Limit"
+        ],
+        "reference": "",
+        "declaration": []
+    },
+    "0066": {
+        "domain": [
+            "Category"
+        ],
+        "level": "High",
+        "tag": [
+            "Limit"
+        ],
+        "reference": "Exercise 12N(c), Ad\u8c29mek, J., Herrlich, H. and Strecker, G., 1990. Abstract and concrete categories. Wiley-Interscience.",
+        "declaration": []
+    },
+    "0067": {
+        "domain": [
+            "Category"
+        ],
+        "level": "Medium",
+        "tag": [
+            "Limit"
+        ],
+        "reference": "",
+        "declaration": []
+    },
+    "0068": {
+        "domain": [
+            "Category"
+        ],
+        "level": "High",
+        "tag": [
+            "Limit"
+        ],
+        "reference": "",
+        "declaration": []
+    },
+    "0069": {
+        "domain": [
+            "Category"
+        ],
+        "level": "High",
+        "tag": [
+            "Limit"
+        ],
+        "reference": "Exercise 11O, Ad\u8c29mek, J., Herrlich, H. and Strecker, G., 1990. Abstract and concrete categories. Wiley-Interscience.",
+        "declaration": []
+    },
+    "0070": {
+        "domain": [
+            "Category"
+        ],
+        "level": "High",
+        "tag": [
+            "Limit"
+        ],
+        "reference": "Exercise 13C, Ad\u8c29mek, J., Herrlich, H. and Strecker, G., 1990. Abstract and concrete categories. Wiley-Interscience.",
+        "declaration": []
+    },
+    "0071": {
+        "domain": [
+            "Category"
+        ],
+        "level": "Medium",
+        "tag": [
+            "Limit"
+        ],
+        "reference": "Exercise 13D(a), Ad\u8c29mek, J., Herrlich, H. and Strecker, G., 1990. Abstract and concrete categories. Wiley-Interscience.",
+        "declaration": []
+    },
+    "0072": {
+        "domain": [
+            "Category"
+        ],
+        "level": "High",
+        "tag": [
+            "Limit"
+        ],
+        "reference": "Exercise 12K, Ad\u8c29mek, J., Herrlich, H. and Strecker, G., 1990. Abstract and concrete categories. Wiley-Interscience.",
+        "declaration": []
+    },
+    "0073": {
+        "domain": [
+            "Category"
+        ],
+        "level": "Medium",
+        "tag": [
+            "Limit"
+        ],
+        "reference": "",
+        "declaration": []
+    },
+    "0074": {
+        "domain": [
+            "Category"
+        ],
+        "level": "High",
+        "tag": [
+            "Cocompletion"
+        ],
+        "reference": " Corollary A.5.JI\u8260\u8125 AD\u8115MEK, LIANG-TING CHEN, STEFAN MILIUS and HENNINGURBAT, Reiterman\u9225\u6a9a Theorem on Finite Algebras for a Monad, https://arxiv.org/pdf/2101.00942",
+        "declaration": []
+    },
+    "0075": {
+        "domain": [
+            "Category"
+        ],
+        "level": "High",
+        "tag": [
+            "Cocompletion"
+        ],
+        "reference": "Proposition 3.2, Chen Ruiyuan 2021, On sifted colimits in the presence of pullbacks, arXiv:2109.12708",
+        "declaration": []
+    },
+    "0076": {
+        "domain": [
+            "Category"
+        ],
+        "level": "High",
+        "tag": [
+            "Cocompletion"
+        ],
+        "reference": "JI\u8260\u8125 AD\u8115MEK, LIANG-TING CHEN, STEFAN MILIUS and HENNINGURBAT, Reiterman\u9225\u6a9a Theorem on Finite Algebras for a Monad, https://arxiv.org/pdf/2101.00942",
+        "declaration": []
+    },
+    "0077": {
+        "domain": [
+            "Category"
+        ],
+        "level": "High",
+        "tag": [
+            "Cocompletion"
+        ],
+        "reference": "Theorem 5.1, Chen Ruiyuan 2021, On sifted colimits in the presence of pullbacks, arXiv:2109.12708",
+        "declaration": []
+    },
+    "0078": {
+        "domain": [
+            "Category"
+        ],
+        "level": "High",
+        "tag": [
+            "Cocompletion"
+        ],
+        "reference": "Lemma 6.2, Chen Ruiyuan 2021, On sifted colimits in the presence of pullbacks, arXiv:2109.12708",
+        "declaration": []
+    },
+    "0079": {
+        "domain": [
+            "Category"
+        ],
+        "level": "Easy",
+        "tag": [
+            "Abelian"
+        ],
+        "reference": "",
+        "declaration": []
+    },
+    "0080": {
+        "domain": [
+            "Category"
+        ],
+        "level": "Easy",
+        "tag": [
+            "Abelian"
+        ],
+        "reference": "",
+        "declaration": []
+    },
+    "0081": {
+        "domain": [
+            "Category"
+        ],
+        "level": "Easy",
+        "tag": [
+            "Abelian"
+        ],
+        "reference": "",
+        "declaration": []
+    },
+    "0082": {
+        "domain": [
+            "Category"
+        ],
+        "level": "Easy",
+        "tag": [
+            "Abelian"
+        ],
+        "reference": "",
+        "declaration": []
+    },
+    "0083": {
+        "domain": [
+            "Category"
+        ],
+        "level": "Medium",
+        "tag": [
+            "Abelian"
+        ],
+        "reference": "",
+        "declaration": []
+    },
+    "0084": {
+        "domain": [
+            "Category"
+        ],
+        "level": "Medium",
+        "tag": [
+            "Abelian"
+        ],
+        "reference": "",
+        "declaration": []
+    },
+    "0085": {
+        "domain": [
+            "Category"
+        ],
+        "level": "Medium",
+        "tag": [
+            "Abelian"
+        ],
+        "reference": "",
+        "declaration": []
+    },
+    "0086": {
+        "domain": [
+            "Category"
+        ],
+        "level": "Medium",
+        "tag": [
+            "Abelian"
+        ],
+        "reference": "",
+        "declaration": []
+    },
+    "0089": {
+        "domain": [
+            "Category"
+        ],
+        "level": "Medium",
+        "tag": [
+            "Abelian"
+        ],
+        "reference": "",
+        "declaration": []
+    },
+    "0087": {
+        "domain": [
+            "Category"
+        ],
+        "level": "High",
+        "tag": [
+            "Abelian"
+        ],
+        "reference": "",
+        "declaration": []
+    },
+    "0088": {
+        "domain": [
+            "Category"
+        ],
+        "level": "Medium",
+        "tag": [
+            "Abelian"
+        ],
+        "reference": "",
+        "declaration": []
+    },
+    "0090": {
+        "domain": [
+            "Category"
+        ],
+        "level": "Medium",
+        "tag": [
+            "Abelian"
+        ],
+        "reference": "",
+        "declaration": []
+    },
+    "0091": {
+        "domain": [
+            "Category"
+        ],
+        "level": "Easy",
+        "tag": [
+            "Monad"
+        ],
+        "reference": "",
+        "declaration": []
+    },
+    "0092": {
+        "domain": [
+            "Category"
+        ],
+        "level": "Medium",
+        "tag": [
+            "Monad"
+        ],
+        "reference": "",
+        "declaration": []
+    },
+    "0093": {
+        "domain": [
+            "Category"
+        ],
+        "level": "Medium",
+        "tag": [
+            "Monad"
+        ],
+        "reference": "",
+        "declaration": []
+    },
+    "0094": {
+        "domain": [
+            "Category"
+        ],
+        "level": "Easy",
+        "tag": [
+            "Monad"
+        ],
+        "reference": "Exercise 20F(b), Ad\u8c29mek, J., Herrlich, H. and Strecker, G., 1990. Abstract and concrete categories. Wiley-Interscience.",
+        "declaration": []
+    },
+    "0095": {
+        "domain": [
+            "Category"
+        ],
+        "level": "Medium",
+        "tag": [
+            "Monad"
+        ],
+        "reference": "",
+        "declaration": []
+    },
+    "0096": {
+        "domain": [
+            "Category"
+        ],
+        "level": "Medium",
+        "tag": [
+            "Monad"
+        ],
+        "reference": "",
+        "declaration": []
+    },
+    "0097": {
+        "domain": [
+            "Category"
+        ],
+        "level": "Medium",
+        "tag": [
+            "Monad"
+        ],
+        "reference": "",
+        "declaration": []
+    },
+    "0098": {
+        "domain": [
+            "Category"
+        ],
+        "level": "Medium",
+        "tag": [
+            "Monad"
+        ],
+        "reference": "",
+        "declaration": []
+    },
+    "0099": {
+        "domain": [
+            "Category"
+        ],
+        "level": "Medium",
+        "tag": [
+            "Monad"
+        ],
+        "reference": "Exercise 20F(c), Ad\u8c29mek, J., Herrlich, H. and Strecker, G., 1990. Abstract and concrete categories. Wiley-Interscience.",
+        "declaration": []
+    },
+    "0100": {
+        "domain": [
+            "Category"
+        ],
+        "level": "High",
+        "tag": [
+            "Monad"
+        ],
+        "reference": "",
+        "declaration": []
+    }
+}
