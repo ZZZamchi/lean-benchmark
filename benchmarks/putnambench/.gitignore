@@ -1,0 +1,15 @@
+# Ignore the lake file
+.lake/
+*.olean
+*.olean.*
+
+lean4/putnam_all*
+lean4/solutions_replaced/*
+lean4/solutions_replaced_new/
+
+informal/join_all_jsons*
+
+isabelle_archive/
+lean4_archive/
+
+split_into_files.py
