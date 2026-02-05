@@ -49,6 +49,7 @@ miniF2F_比较报告.docx
 # Statistics and reports (can be regenerated)
 statistics.json
 analysis_report.md
+*.docx
 
 # Cache
 .cache/

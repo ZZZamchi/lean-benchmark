@@ -44,29 +44,21 @@ minif2f_comparison/
 ├── compare_datasets.py    # 数据集比较脚本
 ├── generate_detailed_report.py  # 详细报告生成脚本
 ├── download_tonic_minif2f.py    # v1 数据集下载脚本
-├── miniF2F_comparison_report.docx  # Word 格式详细报告
-├── Google_Docs_完整对比_纯文本.txt  # Google 文档格式对比
-├── statistics.json        # 统计信息
+├── LICENSE                # Apache-2.0 许可证
+├── CONTRIBUTING.md        # 贡献指南
 └── README.md             # 本文件
 ```
 
 ## 使用方法
 
-### 查看报告
-
-**推荐**: 直接打开 `miniF2F_comparison_report.docx` 查看详细的比较分析，包含：
-- 数据集统计信息表格
-- 5 个具体问题的详细对比（v1、v2c、v2s 三个版本）
-- 每个示例的差异分析
-
-### 重新生成报告
+### 运行分析
 
 ```bash
-# 重新生成 Word 报告
-python generate_detailed_report.py
-
-# 重新运行基础比较
+# 运行数据集比较分析
 python compare_datasets.py
+
+# 生成详细报告（需要 python-docx）
+python generate_detailed_report.py
 ```
 
 ### 下载 v1 数据集
