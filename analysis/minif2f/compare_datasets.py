@@ -31,12 +31,12 @@ class DatasetComparator:
             v2c_path: miniF2F v2c 数据集路径
             v2s_path: miniF2F v2s 数据集路径
         """
-        # 尝试自动查找 v1 数据集
+        # 尝试自动查找数据集
         if v1_path is None:
             possible_v1_paths = [
+                "../benchmarks/minif2f/minif2f_v1/miniF2F_v1.json",
+                "benchmarks/minif2f/minif2f_v1/miniF2F_v1.json",
                 "minif2f_v1/miniF2F_v1.json",
-                "../minif2f_v1/miniF2F_v1.json",
-                "minif2f_v1/valid.json",  # 如果只有验证集
             ]
             for path in possible_v1_paths:
                 if os.path.exists(path):
@@ -44,8 +44,8 @@ class DatasetComparator:
                     break
         
         self.v1_path = v1_path
-        self.v2c_path = v2c_path or "../miniF2F_v2/datasets/miniF2F_v2c.json"
-        self.v2s_path = v2s_path or "../miniF2F_v2/datasets/miniF2F_v2s.json"
+        self.v2c_path = v2c_path or "../benchmarks/minif2f/datasets/miniF2F_v2c.json"
+        self.v2s_path = v2s_path or "../benchmarks/minif2f/datasets/miniF2F_v2s.json"
         
         self.v1_data = None
         self.v2c_data = None

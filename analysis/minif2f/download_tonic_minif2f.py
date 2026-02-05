@@ -27,8 +27,8 @@ def download_tonic_minif2f():
         print("[ERROR] 无法下载：datasets 库未安装")
         return False
     
-    output_dir = Path("minif2f_v1")
-    output_dir.mkdir(exist_ok=True)
+    output_dir = Path("../benchmarks/minif2f/minif2f_v1")
+    output_dir.mkdir(parents=True, exist_ok=True)
     
     print("=" * 60)
     print("下载 Tonic/MiniF2F 数据集")

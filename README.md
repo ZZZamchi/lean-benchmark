@@ -6,12 +6,19 @@
 
 ```
 .
-├── benchmarks/          # 基准数据集
+├── benchmarks/          # 所有基准数据集
+│   ├── minif2f/        # miniF2F 数据集
+│   │   ├── minif2f_v1/ # v1 版本
+│   │   └── datasets/   # v2c 和 v2s 版本
 │   ├── putnambench/    # PutnamBench
 │   ├── proofnet/       # ProofNet
 │   └── leancat/        # LeanCat
-├── analysis/           # 分析内容
+├── analysis/           # 分析脚本和文档
 │   └── minif2f/       # miniF2F 分析
+│       ├── compare_datasets.py
+│       ├── download_tonic_minif2f.py
+│       └── README.md
+├── download_benchmarks.py
 └── README.md
 ```
 
@@ -22,8 +29,6 @@
 - **v1**: 原始版本，488 个问题
 - **v2c**: 竞赛版本，保留所有选项
 - **v2s**: 简化版本，直接给出答案
-
-详细分析见 `analysis/minif2f/`
 
 ### PutnamBench
 
